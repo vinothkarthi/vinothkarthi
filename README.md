@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning angular
 - 💞️ I’m looking to collaborate on live projects
-- 📫 Reach me through github
+- 📫 Reach me through https://github.com/vinothkarthi
 
 <!---
 vinothkarthi/vinothkarthi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
